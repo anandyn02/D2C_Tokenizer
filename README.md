@@ -18,3 +18,22 @@ Example
 This framework communicates with "D2C Tokenizer" plugin in Fimga
 
 <img width="503" alt="Screenshot 2022-10-21 at 6 42 33 AM" src="https://user-images.githubusercontent.com/29969315/197088266-4a421663-b772-40bb-90a2-01cffa1d74d8.png">
+
+
+# Project Setup
+
+**Step 1: Download the project**
+
+**Step 2: Configure the project path in package.json**
+<img width="1596" alt="Screenshot 2022-10-21 at 7 08 58 AM" src="https://user-images.githubusercontent.com/29969315/197091053-840e4278-b661-4fcc-acb3-255a9493dcd0.png">
+
+
+**Step 3: Install the dependence packages**
+```
+npm update
+```
+**Step 4: Run the package**
+```
+node index.js
+```
+<img width="1006" alt="Screenshot 2022-10-21 at 7 04 00 AM" src="https://user-images.githubusercontent.com/29969315/197090892-1a1ef74a-b7a7-40e4-97fe-b583f9065fca.png">
