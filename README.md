@@ -7,12 +7,13 @@ D2C framework automates the iOS color & font tokens from figma to your live proj
 To automate the tokens we need to config the project path in Package.json file.
 
 Example
-
+```
 "scripts": {
 "test": "echo "Error: no test specified" && exit 1",
 "path": "/Users/yourname/Desktop/dummy/dummy",
 "projectName": "ProjectName"
 }
+```
 
 This framework communicates with "D2C Tokenizer" plugin in Fimga
 
