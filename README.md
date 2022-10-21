@@ -10,7 +10,7 @@ Example
 
 "scripts": {
 "test": "echo "Error: no test specified" && exit 1",
-"path": "/Users/youname/Desktop/dummy/dummy",
+"path": "/Users/yourname/Desktop/dummy/dummy",
 "projectName": "ProjectName"
 }
 
