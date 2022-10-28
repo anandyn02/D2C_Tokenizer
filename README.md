@@ -37,3 +37,14 @@ npm update
 node index.js
 ```
 <img width="1006" alt="Screenshot 2022-10-21 at 7 04 00 AM" src="https://user-images.githubusercontent.com/29969315/197090892-1a1ef74a-b7a7-40e4-97fe-b583f9065fca.png">
+
+# How to run?
+
+Step 1: Once project is setup. Run the following command on the ternimal ```node index.js```
+
+Step 2: Install the figma App on Desktop & add "D2C Tokenizer" plugin from community tab
+
+Step 3: Select the figma project that needs to be tokenized & run the "D2C Tokenizer" 
+```Figma -> Plugin -> D2C Tokenizer```
+
+Step 4: Generate the code
