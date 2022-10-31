@@ -50,4 +50,4 @@ Step 3: Select the figma project that needs to be tokenized & run the "D2C Token
 Step 4: Generate the code
 
 # Additional setup on XCode
-- Font tokens are structed using YMatterType. So please use this packe (https://github.com/yml-org/YMatterType) before running the code 
+- Font tokens are structed using YMatterType. So please use this package (https://github.com/yml-org/YMatterType) before running the code 
